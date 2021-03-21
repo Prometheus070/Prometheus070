@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Prometheus070
+- 👀 I’m interested in Computer Networking but I'd like to learn something about programing.
+- 🌱 I’m currently learning Python and Tagscript for a discord bot.
+- 📫 How to reach me: DISCORD - Prometheus#4255
